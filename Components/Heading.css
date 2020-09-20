@@ -1,0 +1,13 @@
+.heading_sm{
+    font-family: cursive;
+    font-weight: 700;
+    color: rgb(255, 72, 0);
+}
+.heading_h1{
+    font-family: PT 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    color: rgb(29, 167, 59);
+}
+.heading_div{
+    text-align: center;
+}
